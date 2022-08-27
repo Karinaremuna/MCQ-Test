@@ -1,0 +1,10 @@
+The following are the keywords found in Java; except…,A. Goto,B. Break,C. If,D. String,D. String
+To store student ID data; the most appropriate data type to use is…,A. int,B. Short,C. Char,D. String,D.String
+The following statements are true regarding classes and objects in Java; except…,A. Each class can contain several methods at once,B. Object is an instance of class,C. Object consists of keywords and methods,D. Class is the definition of object,B. Object is an instance of class
+The following statements are true regarding break and continue; except…,A. Break is used to get out of the loop block,B. Continue is used to continue to the next iteration process,C. Statements after continue will not be executed,D. The statement after the break will still be executed,D. The statement after the break will still be executed
+The following is the class naming in java that is allowed; except…,A. 3_One,B. O_3ne,C. S13h,D. B3_Ta,A. 3_One
+ Among the following commands for printing; the correct one is…,A. System.out.println (“Hello world”); check,B. System.Out.println (“Hello world”); <br>,C. System.out.Println (“Hello world”); <br>,D. System.Out.Println (Hello world ”);,A. System.out.println (“Hello world”); check
+The following include primitive data types are ...,A. Boolean,B. Characters,C. Bytes,D. Double,C. Bytes
+The following is how to initialize a variable of type string class; except:,"A. String me = new String(""Initialize 1"");","B. String me; me = new String ""initialization 1"" ;","C. String me; me = new String(""initialization 1"");","D. String me; me = ""initialization 1"";","B.  String me; me = new String ""initialization 1"" ;"
+The following are permissions that can be added in front of a Java method; except…,A. static,B. Public,C. Private,D. Protected,A. static
+A method that can be executed automatically when an object of a class is created is known as …,A. Constructors,B. Initializers,C. Garbage Collectors,D. Inheritance,A. Constructors
